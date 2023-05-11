@@ -1,6 +1,6 @@
 # Read Me
 
-<img align="left" alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/54cc8060e4b02ab7cb239ae7/1558108173300-760X58VY8NUAQKOSPQQZ/Joy.gif">
+<img align="left" alt="writing" width="400" src="https://images.squarespace-cdn.com/content/v1/54cc8060e4b02ab7cb239ae7/1558108173300-760X58VY8NUAQKOSPQQZ/Joy.gif">
 
 
 <h1>Welcome and let see the projects 😄</h1>
