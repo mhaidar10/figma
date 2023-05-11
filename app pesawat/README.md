@@ -1,4 +1,4 @@
-<h1>App Pesawar</h1>
+<h1>App Pesawat</h1>
 
 src:
 
